@@ -41,7 +41,7 @@ const Navbar = () => {
             whileTap={{ scale: 0.95 }}
             className="text-xl font-bold text-primary"
           >
-            Portfolio    
+            Dishant Nakrani    
           </motion.a>
 
           {/* Desktop Navigation */}
