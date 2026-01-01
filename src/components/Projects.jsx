@@ -64,7 +64,7 @@ const ProjectCard = ({ project, index }) => {
           </motion.a>
 
           {/* {project.live && (
-            <motion.a
+            <motion.aw
               href={project.live}
               target="_blank"
               rel="noopener noreferrer"
