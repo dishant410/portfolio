@@ -63,7 +63,7 @@ const ProjectCard = ({ project, index }) => {
             Code
           </motion.a>
 
-          {project.live && (
+          {/* {project.live && (
             <motion.a
               href={project.live}
               target="_blank"
@@ -77,7 +77,7 @@ const ProjectCard = ({ project, index }) => {
               </svg>
               Live Demo
             </motion.a>
-          )}
+          )} */}
         </div>
       </div>
     </motion.div>
